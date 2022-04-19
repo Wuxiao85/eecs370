@@ -1,0 +1,58 @@
+@@@ transferring word [0-3] from the memory to the cache
+@@@ transferring word [0-0] from the cache to the processor
+@@@ transferring word [16-19] from the memory to the cache
+@@@ transferring word [16-16] from the cache to the processor
+@@@ transferring word [1-1] from the cache to the processor
+@@@ transferring word [20-23] from the memory to the cache
+@@@ transferring word [20-20] from the cache to the processor
+@@@ transferring word [2-2] from the cache to the processor
+@@@ transferring word [0-3] from the cache to nowhere
+@@@ transferring word [24-27] from the memory to the cache
+@@@ transferring word [24-24] from the cache to the processor
+@@@ transferring word [16-19] from the cache to nowhere
+@@@ transferring word [0-3] from the memory to the cache
+@@@ transferring word [3-3] from the cache to the processor
+@@@ transferring word [28-31] from the memory to the cache
+@@@ transferring word [28-28] from the cache to the processor
+@@@ transferring word [20-23] from the cache to nowhere
+@@@ transferring word [4-7] from the memory to the cache
+@@@ transferring word [4-4] from the cache to the processor
+@@@ transferring word [24-27] from the cache to nowhere
+@@@ transferring word [16-19] from the memory to the cache
+@@@ transferring word [17-17] from the processor to the cache
+@@@ transferring word [5-5] from the cache to the processor
+@@@ transferring word [4-7] from the cache to nowhere
+@@@ transferring word [20-23] from the memory to the cache
+@@@ transferring word [21-21] from the processor to the cache
+@@@ transferring word [28-31] from the cache to nowhere
+@@@ transferring word [4-7] from the memory to the cache
+@@@ transferring word [6-6] from the cache to the processor
+@@@ transferring word [0-3] from the cache to nowhere
+@@@ transferring word [24-27] from the memory to the cache
+@@@ transferring word [25-25] from the processor to the cache
+@@@ transferring word [7-7] from the cache to the processor
+@@@ transferring word [4-7] from the cache to nowhere
+@@@ transferring word [28-31] from the memory to the cache
+@@@ transferring word [29-29] from the processor to the cache
+@@@ transferring word [16-19] from the cache to the memory
+@@@ transferring word [8-11] from the memory to the cache
+@@@ transferring word [8-8] from the cache to the processor
+@@@ transferring word [24-27] from the cache to the memory
+@@@ transferring word [16-19] from the memory to the cache
+@@@ transferring word [18-18] from the cache to the processor
+@@@ transferring word [9-9] from the cache to the processor
+@@@ transferring word [22-22] from the cache to the processor
+@@@ transferring word [10-10] from the cache to the processor
+@@@ transferring word [8-11] from the cache to nowhere
+@@@ transferring word [24-27] from the memory to the cache
+@@@ transferring word [26-26] from the cache to the processor
+@@@ transferring word [16-19] from the cache to nowhere
+@@@ transferring word [8-11] from the memory to the cache
+@@@ transferring word [11-11] from the cache to the processor
+@@@ transferring word [30-30] from the cache to the processor
+@@@ transferring word [20-23] from the cache to the memory
+@@@ transferring word [12-15] from the memory to the cache
+@@@ transferring word [12-12] from the cache to the processor
+@@@ transferring word [13-13] from the cache to the processor
+@@@ transferring word [14-14] from the cache to the processor
+@@@ transferring word [15-15] from the cache to the processor

@@ -1,0 +1,35 @@
+7 6 8 13
+8454144
+8519680
+8650752
+15138821
+8519685
+8650758
+15138822
+0
+0
+10
+11
+2
+3
+A T 0
+F U 0
+B T 2
+C T 3
+D T 5
+E T 6
+G D 3
+H D 4
+0 lw F
+1 lw F
+2 lw A
+3 sw D
+4 lw D
+5 lw E
+6 sw E
+0 .fill F
+1 .fill F
+2 .fill G
+3 .fill H
+4 .fill B
+5 .fill C
